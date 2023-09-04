@@ -1,0 +1,2 @@
+# adguardhomelist
+Block ads
