@@ -10,4 +10,6 @@
 ||s.go-mpulse.net*^
 ||c.go-mpulse.net*^
 ||api2.appsflyer.com*^
+#||app-analytics-services.com*^
+#||dem.shopee.com*^
 #||log-collector.shopee.vn*^
