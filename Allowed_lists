@@ -6,9 +6,28 @@
 
 #Bank:
 ||akamaiedge.net*^
+#||s.go-mpulse.net*^
+#||c.go-mpulse.net*^
+#||api2.appsflyer.com*^
+||go-mpulse.net*^
+||go-mpulse.net*^
+||appsflyer.com*^
 ||launches.appsflyersdk.com*^
 #||ogads-pa.clients6.google.com*^
-||dpm.demdex.net*^
+#||dpm.demdex.net*^
+
+#Shopee:
+||app-measurement.com*^
+||ssl.google-analytics.com*^
+||googleadservices.com*^
+||googletagmanager.com*^
+||analytics.google.com*^
+||google-analytics.com*^
+||firebaselogging-pa.googleapis.com*^
+||firebaselogging.googleapis.com*^
+||crashlyticsreports-pa.googleapis.com*^
+#||dem.shopee.com*^
+#||log-collector.shopee.vn*^
 
 #XXX:
 ||javplayer*^
