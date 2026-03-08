@@ -3,7 +3,7 @@
 ||googleadservices.com*^
 ||googletagmanager.com*^
 ||analytics.google.com*^
-#||www.google-analytics.com*^
-#||firebaselogging-pa.googleapis.com*^
-#||crashlyticsreports-pa.googleapis.com*^
+||google-analytics.com*^
+||firebaselogging-pa.googleapis.com*^
+||crashlyticsreports-pa.googleapis.com*^
 #||log-collector.shopee.vn*^
