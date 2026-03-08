@@ -5,6 +5,7 @@
 ||analytics.google.com*^
 ||google-analytics.com*^
 ||firebaselogging-pa.googleapis.com*^
+||firebaselogging.googleapis.com*^
 ||crashlyticsreports-pa.googleapis.com*^
 ||s.go-mpulse.net*^
 ||c.go-mpulse.net*^
