@@ -7,7 +7,8 @@
 #Bank:
 ||akamaiedge.net*^
 ||launches.appsflyersdk.com*^
-||ogads-pa.clients6.google.com*^
+#||ogads-pa.clients6.google.com*^
+||dpm.demdex.net*^
 
 #XXX:
 ||javplayer*^
