@@ -1,0 +1,8 @@
+||app-measurement.com^$important
+||ssl.google-analytics.com^$important
+||www.googleadservices.com^$important
+||www.googletagmanager.com^$important
+#||www.google-analytics.com^$important
+#||firebaselogging-pa.googleapis.com^$important
+#||crashlyticsreports-pa.googleapis.com^$important
+#||log-collector.shopee.vn^$important
