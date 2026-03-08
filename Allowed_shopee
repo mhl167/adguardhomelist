@@ -1,7 +1,8 @@
 ||app-measurement.com*^
 ||ssl.google-analytics.com*^
-||www.googleadservices.com*^
-||www.googletagmanager.com*^
+||googleadservices.com*^
+||googletagmanager.com*^
+||analytics.google.com*^
 #||www.google-analytics.com*^
 #||firebaselogging-pa.googleapis.com*^
 #||crashlyticsreports-pa.googleapis.com*^
