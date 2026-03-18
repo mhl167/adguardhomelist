@@ -12,7 +12,6 @@
 ||launches.appsflyersdk.com*^
 ||dpm.demdex.net*^
 ||firebase-settings.crashlytics.com*^
-#||ogads-pa.clients6.google.com*^
 
 #Shopee:
 ||app-measurement.com*^
@@ -24,6 +23,7 @@
 ||firebaselogging-pa.googleapis.com*^
 ||firebaselogging.googleapis.com*^
 ||crashlyticsreports-pa.googleapis.com*^
+||ogads-pa.clients6.google.com*^
 #||dem.shopee.com*^
 #||log-collector.shopee.vn*^
 
