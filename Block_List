@@ -3,6 +3,9 @@
 ||xp.apple.com^$important
 ||gdmf.apple.com^$important
 ||updates.g.aaplimg.com^$important
+||bpapi.apple.com^$important
+||xp.itunes-apple.com.akadns.net^$important
+||gateway.fe2.apple-dns.net^$important
 
 ||ya.ru^$important
 ||ndss.ndmsystems.com^$important
